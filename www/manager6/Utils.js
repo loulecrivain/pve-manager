@@ -939,6 +939,11 @@ Ext.define('PVE.Utils', {
                 ipanel: 'NetboxInputPanel',
                 faIcon: 'th',
             },
+            nautobot: {
+                name: 'Nautobot',
+                ipanel: 'NautobotInputPanel',
+                faIcon: 'th',
+            },
             phpipam: {
                 name: 'PhpIpam',
                 ipanel: 'PhpIpamInputPanel',
